@@ -1,0 +1,26 @@
+====================================================================
+CariboSystem -- Open source 16-bit operating system for x86 PCs
+Copyright (C) 2018 - 2022 Zanvok Corporation -- see doc/LICENSE.TXT
+====================================================================
+
+
+PROJECT ADMIN (MAIN CODE AND HANDBOOKS)
+
+ * Gautham Nair -- gautham.nair.2005@outlook.com
+
+
+DEVELOPMENT
+
+ * Suraj Varma
+ * Adithya Vijayan
+
+
+WEBSITE, DOCS AND ARTWORK
+
+ * Gautham Nair -- logo and site design
+ * Suraj Varma -- Handbook API reference
+ * Adithya Vijayan -- Handbook API reference
+
+
+==================================================================
+
