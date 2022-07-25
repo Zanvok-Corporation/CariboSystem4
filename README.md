@@ -16,3 +16,4 @@ Latest Version CariboSystem 4.7
 * Fixed Bug in FORTH/Terminal/Serial Console Program
 * Fixed Bug, were CariboTron fails to render properly in VMs
 * Added ZanX Security to CD-ROM ISO, IMG, FLP and DMG images
+* Fixed Bug and added DimZ-6.0.8.67+ to `caribodev.inc`
